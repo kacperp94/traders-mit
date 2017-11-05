@@ -1,5 +1,3 @@
 #!/bin/bash
 
-./utils/mangocore-linux-amd64.x --case ./samples/main2.json --identity ./utils/identity.json --start 5
-sleep 5
-python utils/bot.py
+./utils/mangocore-linux-amd64.x --case ./samples/cases/main1.json --start 5

@@ -9,3 +9,6 @@ for `i = 0 1 2`. This will start mangocore with a 5-second delay, and launch a w
 + Read the case packet for information and strategies! Changes may be made to the case packet up until the deadline for submitting code, and we will keep you informed if anything changes.
 + We are going to require you to submit your algorithms ONE WEEK before the competition occurs (11/4/17)! Please make sure you have a working strategy by this date.
 + Best of luck!
+
+# CASE UPDATES
++ 10/25: Case closeout should work now, and windows batch file has minor changes that should make it function as expected
